@@ -8,11 +8,11 @@ The paper that this application references can be found at https://doi.org/10.11
 
 ### This application is hosted at
 
-https://simewu.github.io/bitcoin-reward-analyzer
+https://simewu.github.io/anti-withholding-reward-system-analyzer
 
 and
 
-http://simewu.com/bitcoin-reward-analyzer.
+http://simewu.com/anti-withholding-reward-system-analyzer.
 
 ---
 
